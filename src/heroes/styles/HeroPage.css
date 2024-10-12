@@ -1,0 +1,50 @@
+.main-content {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #1c1c1c;
+  color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #ffcc00;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  background-color: #222;
+  margin-bottom: 10px;
+  padding: 15px;
+  border-radius: 5px;
+  transition: transform 0.3s;
+}
+
+li:hover {
+  transform: scale(1.02);
+}
+
+h3 {
+  margin: 0;
+  color: #ffcc00;
+}
+
+p {
+  margin: 5px 0 0;
+  color: #ccc;
+}
+
+.imgHero {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+  object-fit: cover;
+}

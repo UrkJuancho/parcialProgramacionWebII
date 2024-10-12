@@ -1,0 +1,8 @@
+.marvel-container{
+    background: url(https://deslivres.fr/wp-content/uploads/2018/01/Marvel.jpeg) no-repeat center center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
